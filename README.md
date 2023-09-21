@@ -1,2 +1,2 @@
-# gym-management-system
-Simple Gym management System
+# Simple Gym Management System
+A simple Gym Management System (Boostrap 5,php,js,mysql)
